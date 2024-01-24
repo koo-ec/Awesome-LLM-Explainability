@@ -5,10 +5,10 @@ A curated list of explainability-related papers, articles, and resources focused
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
-<a href=""> <img src="https://img.shields.io/github/stars/ydyjya/Awesome-LLM-Safety?style=flat-square&logo=github" alt="GitHub stars"></a>
-<a href=""> <img src="https://img.shields.io/github/forks/ydyjya/Awesome-LLM-Safety?style=flat-square&logo=github" alt="GitHub forks"></a>
-<a href=""> <img src="https://img.shields.io/github/issues/ydyjya/Awesome-LLM-Safety?style=flat-square&logo=github" alt="GitHub issues"></a>
-<a href=""> <img src="https://img.shields.io/github/last-commit/ydyjya/Awesome-LLM-Safety?style=flat-square&logo=github" alt="GitHub Last commit"></a>
+<a href=""> <img src="https://img.shields.io/github/stars/koo-ec/Awesome-LLM-Explainability?style=flat-square&logo=github" alt="GitHub stars"></a>
+<a href=""> <img src="https://img.shields.io/github/forks/koo-ec/Awesome-LLM-Explainability?style=flat-square&logo=github" alt="GitHub forks"></a>
+<a href=""> <img src="https://img.shields.io/github/issues/koo-ec/Awesome-LLM-Explainability?style=flat-square&logo=github" alt="GitHub issues"></a>
+<a href=""> <img src="https://img.shields.io/github/last-commit/koo-ec/Awesome-LLM-Explainability?style=flat-square&logo=github" alt="GitHub Last commit"></a>
 </p>
 
 

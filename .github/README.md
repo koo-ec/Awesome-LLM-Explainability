@@ -15,7 +15,84 @@ A curated list of explainability-related papers, articles, and resources focused
 ## Introduction
 We've curated a collection of the latest 📈, most comprehensive 📚, and most valuable 💡 resources on large language model explainability (LLM Explainability)). But we don't stop there; included are also relevant talks, tutorials, conferences, news, and articles. Our repository is constantly updated to ensure you have the most current information at your fingertips.
 
+## Table of Contents
 
+
+## Neural Network Analysis
+| Date       | Institute | Publication | Paper Title |
+|------------|-----------|-------------|-------------|
+| YYYY-MM-DD | Institute | Journal     | Finding Neurons in a Haystack: Case Studies with Sparse Probing |
+| YYYY-MM-DD | Institute | Journal     | Copy Suppression: Comprehensively Understanding an Attention Head |
+| YYYY-MM-DD | Institute | Journal     | Towards Automated Circuit Discovery for Mechanistic Interpretability |
+| YYYY-MM-DD | Institute | Journal     | Language models can explain neurons in language models |
+| YYYY-MM-DD | Institute | Journal     | Toward a Mechanistic Understanding of Stepwise Inference in Transformers: A Synthetic Graph Navigation Model |
+| YYYY-MM-DD | Institute | Journal     | Successor Heads: Recurring, Interpretable Attention Heads In The Wild |
+| YYYY-MM-DD | Institute | Journal     | Neurons in Large Language Models: Dead, N-gram, Positional |
+| YYYY-MM-DD | Institute | Journal     | Interpretability in the Wild: GPT-2 small (arXiv) |
+| YYYY-MM-DD | Institute | Journal     | Explaining black box text modules in natural language with language models |
+| YYYY-MM-DD | Institute | Journal     | N2G: A Scalable Approach for Quantifying Interpretable Neuron Representations in Large Language Models |
+| YYYY-MM-DD | Institute | Journal     | Interpreting GPT: the logit lens |
+
+## Algorithmic Approaches
+| Date       | Institute | Publication | Paper Title |
+|------------|-----------|-------------|-------------|
+| YYYY-MM-DD | Institute | Journal     | Causal Mediation Analysis for Interpreting Neural NLP: The Case of Gender Bias |
+| YYYY-MM-DD | Institute | Journal     | Discovering Latent Knowledge in Language Models Without Supervision |
+| YYYY-MM-DD | Institute | Journal     | Towards Monosemanticity: Decomposing Language Models With Dictionary Learning |
+| YYYY-MM-DD | Institute | Journal     | Spine: Sparse interpretable neural embeddings |
+| YYYY-MM-DD | Institute | Journal     | Transformer visualization via dictionary learning: contextualized embedding as a linear superposition of transformer factors |
+| YYYY-MM-DD | Institute | Journal     | Sparse Autoencoders Find Highly Interpretable Features in Language Models |
+| YYYY-MM-DD | Institute | Journal     | Attribution Patching: Activation Patching At Industrial Scale |
+| YYYY-MM-DD | Institute | Journal     | Causal Scrubbing: a method for rigorously testing interpretability hypotheses [Redwood Research] |
+
+## Representation Analysis
+| Date       | Institute | Publication | Paper Title |
+|------------|-----------|-------------|-------------|
+| YYYY-MM-DD | Institute | Journal     | Linear Representations of Sentiment in Large Language Models |
+| YYYY-MM-DD | Institute | Journal     | Emergent Linear Representations in World Models of Self-Supervised Sequence Models |
+| YYYY-MM-DD | Institute | Journal     | Measuring Feature Sparsity in Language Models |
+| YYYY-MM-DD | Institute | Journal     | Polysemanticity and capacity in neural networks |
+| YYYY-MM-DD | Institute | Journal     | Visualizing and measuring the geometry of BERT |
+| YYYY-MM-DD | Institute | Journal     | The Geometry of Truth: Emergent Linear Structure in Large Language Model Representations of True/False Datasets |
+
+## Bias and Robustness Studies
+| Date       | Institute | Publication | Paper Title |
+|------------|-----------|-------------|-------------|
+| YYYY-MM-DD | Institute | Journal     | Large Language Models Are Not Robust Multiple Choice Selectors |
+| YYYY-MM-DD | Institute | Journal     | The Devil is in the Neurons: Interpreting and Mitigating Social Biases in Language Models |
+| YYYY-MM-DD | Institute | Journal     | ChainPoll: A High Efficacy Method for LLM Hallucination Detection |
+| YYYY-MM-DD | Institute | Journal     | Evaluating LLMs is a minefield |
+
+## Interpretability Frameworks
+| Date       | Institute | Publication | Paper Title |
+|------------|-----------|-------------|-------------|
+| YYYY-MM-DD | Institute | Journal     | Let's Verify Step by Step |
+| YYYY-MM-DD | Institute | Journal     | Interpretability Illusions in the Generalization of Simplified Models |
+| YYYY-MM-DD | Institute | Journal     | Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling |
+| YYYY-MM-DD | Institute | Journal     | Can Large Language Models Explain Themselves? |
+| YYYY-MM-DD | Institute | Journal     | A Mechanistic Interpretability Analysis of Grokking |
+| YYYY-MM-DD | Institute | Journal     | 200 Concrete Open Problems in Mechanistic Interpretability |
+| YYYY-MM-DD | Institute | Journal     | Interpretability at Scale: Identifying Causal Mechanisms in Alpaca |
+| YYYY-MM-DD | Institute | Journal     | Representation Engineering: A Top-Down Approach to AI Transparency |
+| YYYY-MM-DD | Institute | Journal     | Augmenting Interpretable Models with LLMs during Training |
+
+## Application-Specific Studies
+| Date       | Institute | Publication | Paper Title |
+|------------|-----------|-------------|-------------|
+| YYYY-MM-DD | Institute | Journal     | Emergent world representations: Exploring a sequence model trained on a synthetic task |
+| YYYY-MM-DD | Institute | Journal     | How does GPT-2 compute greater-than?: Interpreting mathematical abilities in a pre-trained language model |
+| YYYY-MM-DD | Institute | Journal     | Interpreting the Inner Mechanisms of Large Language Models in Mathematical Addition |
+| YYYY-MM-DD | Institute | Journal     | An Overview of Early Vision in InceptionV1 |
+
+## Theoretical Approaches
+| Date       | Institute | Publication | Paper Title |
+|------------|-----------|-------------|-------------|
+| YYYY-MM-DD | Institute | Journal     | A Toy Model of Universality: Reverse Engineering How Networks Learn Group Operations |
+| YYYY-MM-DD | Institute | Journal     | The Quantization Model of Neural Scaling |
+| YYYY-MM-DD | Institute | Journal     | Toy Models of Superposition |
+| YYYY-MM-DD | Institute | Journal     | Engineering monosemanticity in toy models |
+| YYYY-MM-DD | Institute | Journal     | A New Approach to Computation Reimagines Artificial Intelligenceg |
+ 
 
 <!--
 **🧑‍💻 Our Work**

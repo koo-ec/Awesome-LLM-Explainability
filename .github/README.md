@@ -13,13 +13,13 @@
 A curated list of explainability-related papers, articles, and resources focused on Large Language Models (LLMs). This repository aims to provide researchers, practitioners, and enthusiasts with insights into the explainability implications, challenges, and advancements surrounding these powerful models.
 
 ## Introduction
+We've curated a collection of the latest 📈, most comprehensive 📚, and most valuable 💡 resources on large language model explainability (LLM Explainability)). But we don't stop there; included are also relevant talks, tutorials, conferences, news, and articles. Our repository is constantly updated to ensure you have the most current information at your fingertips.
 
 
 
-
+<!--
 **🧑‍💻 Our Work**
 
-We've curated a collection of the latest 📈, most comprehensive 📚, and most valuable 💡 resources on large language model explainability (LLM Explainability)). But we don't stop there; included are also relevant talks, tutorials, conferences, news, and articles. Our repository is constantly updated to ensure you have the most current information at your fingertips.
 
 > If a resource is relevant to multiple subcategories, we place it under each applicable section. For instance, the "Awesome-LLM-Safety" repository will be listed under each subcategory to which it pertains🤩!.
 
@@ -249,3 +249,5 @@ We've curated a collection of the latest 📈, most comprehensive 📚, and most
 [![Star History Chart](https://api.star-history.com/svg?repos=ydyjya/Awesome-LLM-Explainability&type=Date)](https://star-history.com/#koo-ec/Awesome-LLM-Explainability&Date)
 
 **[⬆ Back to ToC](#table-of-contents)**
+
+-->

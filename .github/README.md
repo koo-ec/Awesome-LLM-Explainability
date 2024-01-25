@@ -10,13 +10,26 @@
 </p>
 
 # Awesome-LLM-Explainability
-A curated list of explainability-related papers, articles, and resources focused on Large Language Models (LLMs). This repository aims to provide researchers, practitioners, and enthusiasts with insights into the explainability implications, challenges, and advancements surrounding these powerful models.
+<p align="justify">A curated list of explainability-related papers, articles, and resources focused on Large Language Models (LLMs). This repository aims to provide researchers, practitioners, and enthusiasts with insights into the explainability implications, challenges, and advancements surrounding these powerful models.</p>
 
 ## Introduction
-We've curated a collection of the latest 📈, most comprehensive 📚, and most valuable 💡 resources on large language model explainability (LLM Explainability)). But we don't stop there; included are also relevant talks, tutorials, conferences, news, and articles. Our repository is constantly updated to ensure you have the most current information at your fingertips.
+<p align="justify">We've curated a collection of the latest 📈, most comprehensive 📚, and most valuable 💡 resources on large language model explainability (LLM Explainability)). But we don't stop there; included are also relevant talks, tutorials, conferences, news, and articles. Our repository is constantly updated to ensure you have the most current information at your fingertips.</p>
 
 ## Table of Contents
-
+- [Awesome LLM-Explainability](#️awesome-llm-xai)
+  - [Introduction](#intro)
+  - [Table of Contents](#table-of-contents)
+  - [Articles](#papers)
+    - [📑Papers](#papers)
+    - [📖Articles, and Presentations](#articles)
+    - [Other](#other)
+  - [Datasets \& Benchmark](#datasets--benchmark)
+    - [📑Papers](#papers-4)
+    - [📖Tutorials, Articles, Presentations and Talks](#tutorials-articles-presentations-and-talks-5)
+    - [📚Resource](#resource)
+    - [Other](#other-5)
+  - [👩‍🏫 Scholars](#-scholars)
+  - [🧑‍🎓Contributors](#author)
 
 ## Neural Network Analysis
 | Date       | Institute | Publication | Paper Title |

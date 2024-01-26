@@ -342,5 +342,5 @@
 
 -->
 
-## Future direction
+## Future Research
 One future direction is fairness-explainability for LLM.

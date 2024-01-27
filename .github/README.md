@@ -342,5 +342,8 @@
 
 -->
 
-## Future Research
-One future direction is fairness-explainability for LLM.
+## Related GitHub Repositories:
+* [Awesome LLM Interpretability ](https://github.com/JShollaj/awesome-llm-interpretability)
+
+## Future Research Directions
+* One future direction is Fairness-Explainability Evaluation for LLMs.

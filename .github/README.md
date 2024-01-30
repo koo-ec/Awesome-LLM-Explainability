@@ -35,13 +35,13 @@
 | 2023 | UoTexas/DeepMind | [Arxiv](https://arxiv.org/pdf/2310.04625.pdf) | Copy Suppression: Comprehensively Understanding an Attention Head |
 | 2023 | UCL              | [Arxiv](https://arxiv.org/pdf/2304.14997.pdf)     | Towards Automated Circuit Discovery for Mechanistic Interpretability |
 | 2023 | OpenAI           | [OpenAI Publication](https://openai.com/research/language-models-can-explain-neurons-in-language-models) | Language models can explain neurons in language models |
-| 2023 | Institute | Journal     | Toward a Mechanistic Understanding of Stepwise Inference in Transformers: A Synthetic Graph Navigation Model |
-| 2023 | Institute | Journal     | Successor Heads: Recurring, Interpretable Attention Heads In The Wild |
-| 2023 | Institute | Journal     | Neurons in Large Language Models: Dead, N-gram, Positional |
-| 2023 | Institute | Journal     | Interpretability in the Wild: GPT-2 small (arXiv) |
-| 2023 | Institute | Journal     | Explaining black box text modules in natural language with language models |
-| 2023 | Institute | Journal     | N2G: A Scalable Approach for Quantifying Interpretable Neuron Representations in Large Language Models |
-| 2023 | Institute | Journal     | Interpreting GPT: the logit lens |
+| 2023 | MIT              | [NIPS23](https://openreview.net/forum?id=RSGmZ7HZaA)     | Toward a Mechanistic Understanding of Stepwise Inference in Transformers: A Synthetic Graph Navigation Model |
+| 2023 | Cambridge | [Arxiv](https://arxiv.org/pdf/2312.09230.pdf) | Successor Heads: Recurring, Interpretable Attention Heads In The Wild |
+| 2023 | Meta | [Arxiv](https://arxiv.org/pdf/2309.04827.pdf) | Neurons in Large Language Models: Dead, N-gram, Positional |
+| 2023 | Redwood/UC Berkeley | [Arxiv](https://arxiv.org/pdf/2211.00593.pdf) | Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 small |
+| 2023 | Microsoft | [Arxiv](https://arxiv.org/pdf/2305.09863.pdf) | Explaining black box text modules in natural language with language models |
+| 2023 | ApartR/Oxford | [ICLR23](https://openreview.net/forum?id=ZB6bK6MTYq) | N2G: A Scalable Approach for Quantifying Interpretable Neuron Representations in Large Language Models |
+| 2023 | --- | [Blog](https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens) | Interpreting GPT: the Logit Lens |
 
 ## Algorithmic Approaches
 | Date       | Institute | Publication | Paper Title |

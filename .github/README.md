@@ -29,19 +29,19 @@
   - [🧑‍🎓Contributors](#author)
 
 ## Neural Network Analysis
-| Date       | Institute | Publication | Paper Title |
-|------------|-----------|-------------|-------------|
-| 2023 | MIT/Harvard | [Arxiv](https://arxiv.org/pdf/2305.01610.pdf) | Finding Neurons in a Haystack: Case Studies with Sparse Probing |
+| Date | Institute        | Publication | Paper Title |
+|------|------------------|-------------|-------------|
+| 2023 | MIT/Harvard      | [Arxiv](https://arxiv.org/pdf/2305.01610.pdf) | Finding Neurons in a Haystack: Case Studies with Sparse Probing |
 | 2023 | UoTexas/DeepMind | [Arxiv](https://arxiv.org/pdf/2310.04625.pdf) | Copy Suppression: Comprehensively Understanding an Attention Head |
-| 2023 | UCL | [Arxiv](https://arxiv.org/pdf/2304.14997.pdf)     | Towards Automated Circuit Discovery for Mechanistic Interpretability |
-| 2023 | OpenAI | [OpenAI Publication](https://openai.com/research/language-models-can-explain-neurons-in-language-models) | Language models can explain neurons in language models |
-| YYYY-MM-DD | Institute | Journal     | Toward a Mechanistic Understanding of Stepwise Inference in Transformers: A Synthetic Graph Navigation Model |
-| YYYY-MM-DD | Institute | Journal     | Successor Heads: Recurring, Interpretable Attention Heads In The Wild |
-| YYYY-MM-DD | Institute | Journal     | Neurons in Large Language Models: Dead, N-gram, Positional |
-| YYYY-MM-DD | Institute | Journal     | Interpretability in the Wild: GPT-2 small (arXiv) |
-| YYYY-MM-DD | Institute | Journal     | Explaining black box text modules in natural language with language models |
-| YYYY-MM-DD | Institute | Journal     | N2G: A Scalable Approach for Quantifying Interpretable Neuron Representations in Large Language Models |
-| YYYY-MM-DD | Institute | Journal     | Interpreting GPT: the logit lens |
+| 2023 | UCL              | [Arxiv](https://arxiv.org/pdf/2304.14997.pdf)     | Towards Automated Circuit Discovery for Mechanistic Interpretability |
+| 2023 | OpenAI           | [OpenAI Publication](https://openai.com/research/language-models-can-explain-neurons-in-language-models) | Language models can explain neurons in language models |
+| 2023 | Institute | Journal     | Toward a Mechanistic Understanding of Stepwise Inference in Transformers: A Synthetic Graph Navigation Model |
+| 2023 | Institute | Journal     | Successor Heads: Recurring, Interpretable Attention Heads In The Wild |
+| 2023 | Institute | Journal     | Neurons in Large Language Models: Dead, N-gram, Positional |
+| 2023 | Institute | Journal     | Interpretability in the Wild: GPT-2 small (arXiv) |
+| 2023 | Institute | Journal     | Explaining black box text modules in natural language with language models |
+| 2023 | Institute | Journal     | N2G: A Scalable Approach for Quantifying Interpretable Neuron Representations in Large Language Models |
+| 2023 | Institute | Journal     | Interpreting GPT: the logit lens |
 
 ## Algorithmic Approaches
 | Date       | Institute | Publication | Paper Title |

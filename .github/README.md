@@ -110,7 +110,7 @@
 * [Awesome LLM Interpretability ](https://github.com/JShollaj/awesome-llm-interpretability)
 
 ## Contribution and Collaboration:
-Please feel free to check out <a href = "https://github.com/koo-ec/Awesome-LLM-Explainability/blob/main/.github/CONTRIBUTING.md">CONTRIBUTING)</a> and <a href = "https://github.com/koo-ec/Awesome-LLM-Explainability/blob/main/.github/CODE_OF_CONDUCT.md">CODE-OF-CONDUCT</a> to collaborate with us.
+Please feel free to check out <a href = "https://github.com/koo-ec/Awesome-LLM-Explainability/blob/main/.github/CONTRIBUTING.md">CONTRIBUTING</a> and <a href = "https://github.com/koo-ec/Awesome-LLM-Explainability/blob/main/.github/CODE_OF_CONDUCT.md">CODE-OF-CONDUCT</a> to collaborate with us.
 
 ## Future Research Directions
 * One future direction is Fairness-Explainability Evaluation for LLMs.

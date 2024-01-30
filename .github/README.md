@@ -86,7 +86,7 @@
 | YYYY-MM-DD | Institute | Journal     | 200 Concrete Open Problems in Mechanistic Interpretability |
 | YYYY-MM-DD | Institute | Journal     | Interpretability at Scale: Identifying Causal Mechanisms in Alpaca |
 | YYYY-MM-DD | Institute | Journal     | Representation Engineering: A Top-Down Approach to AI Transparency |
-| YYYY-MM-DD | Institute | Journal     | Augmenting Interpretable Models with LLMs during Training |
+| 2023 | UC Berkeley | [Nature Communication](https://www.nature.com/articles/s41467-023-43713-1) | Augmenting Interpretable Models with LLMs during Training |
 
 ## Application-Specific Studies
 | Date       | Institute | Publication | Paper Title |

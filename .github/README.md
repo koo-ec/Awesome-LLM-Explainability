@@ -29,8 +29,7 @@
     - [📖Tutorials, Articles, Presentations and Talks](#tutorials-articles-presentations-and-talks-5)
     - [📚Resource](#resource)
     - [Other](#other-5)
-  - [👩‍🏫 Scholars](#-scholars)
-  - [🧑‍🎓Contributors](#author)
+  - [Contributors](#contributors)
 
 ## Neural Network Analysis
 | Date | Institute        | Publication | Paper Title |
@@ -111,6 +110,7 @@
 ## Related GitHub Repositories:
 * [Awesome LLM Interpretability ](https://github.com/JShollaj/awesome-llm-interpretability)
 
+<a id = "contributors"></a>
 ## Contribution and Collaboration:
 Please feel free to check out <a href = "https://github.com/koo-ec/Awesome-LLM-Explainability/blob/main/.github/CONTRIBUTING.md">CONTRIBUTING</a> and <a href = "https://github.com/koo-ec/Awesome-LLM-Explainability/blob/main/.github/CODE_OF_CONDUCT.md">CODE-OF-CONDUCT</a> to collaborate with us.
 

@@ -73,7 +73,7 @@
 | YYYY-MM-DD | Institute | Journal     | Large Language Models Are Not Robust Multiple Choice Selectors |
 | YYYY-MM-DD | Institute | Journal     | The Devil is in the Neurons: Interpreting and Mitigating Social Biases in Language Models |
 | YYYY-MM-DD | Institute | Journal     | ChainPoll: A High Efficacy Method for LLM Hallucination Detection |
-| YYYY-MM-DD | Institute | Journal     | Evaluating LLMs is a minefield |
+| 2023 | PrincetonU | [Online Presentation](https://www.cs.princeton.edu/~arvindn/talks/evaluating_llms_minefield/) | Evaluating LLMs is a minefield |
 
 ## Interpretability Frameworks
 | Date       | Institute | Publication | Paper Title |

@@ -1,7 +1,4 @@
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-<p align="center">
-<a href=""> <img src="https://img.shields.io/github/stars/koo-ec/Awesome-LLM-Explainability?style=flat-square&logo=github" alt="GitHub stars"></a>
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)<p><a href=""> <img src="https://img.shields.io/github/stars/koo-ec/Awesome-LLM-Explainability?style=flat-square&logo=github" alt="GitHub stars"></a>
 <a href=""> <img src="https://img.shields.io/github/forks/koo-ec/Awesome-LLM-Explainability?style=flat-square&logo=github" alt="GitHub forks"></a>
 <a href=""> <img src="https://img.shields.io/github/issues/koo-ec/Awesome-LLM-Explainability?style=flat-square&logo=github" alt="GitHub issues"></a>
 <a href=""> <img src="https://img.shields.io/github/last-commit/koo-ec/Awesome-LLM-Explainability?style=flat-square&logo=github" alt="GitHub Last commit"></a>
@@ -34,10 +31,10 @@
 ## Neural Network Analysis
 | Date       | Institute | Publication | Paper Title |
 |------------|-----------|-------------|-------------|
-| YYYY-MM-DD | Institute | Journal     | Finding Neurons in a Haystack: Case Studies with Sparse Probing |
-| YYYY-MM-DD | Institute | Journal     | Copy Suppression: Comprehensively Understanding an Attention Head |
-| YYYY-MM-DD | Institute | Journal     | Towards Automated Circuit Discovery for Mechanistic Interpretability |
-| YYYY-MM-DD | Institute | Journal     | Language models can explain neurons in language models |
+| 2023 | MIT/Harvard | [Arxiv](https://arxiv.org/pdf/2305.01610.pdf) | Finding Neurons in a Haystack: Case Studies with Sparse Probing |
+| 2023 | UoTexas/DeepMind | [Arxiv](https://arxiv.org/pdf/2310.04625.pdf) | Copy Suppression: Comprehensively Understanding an Attention Head |
+| 2023 | UCL | [Arxiv](https://arxiv.org/pdf/2304.14997.pdf)     | Towards Automated Circuit Discovery for Mechanistic Interpretability |
+| 2023 | OpenAI | [OpenAI Publication](https://openai.com/research/language-models-can-explain-neurons-in-language-models) | Language models can explain neurons in language models |
 | YYYY-MM-DD | Institute | Journal     | Toward a Mechanistic Understanding of Stepwise Inference in Transformers: A Synthetic Graph Navigation Model |
 | YYYY-MM-DD | Institute | Journal     | Successor Heads: Recurring, Interpretable Attention Heads In The Wild |
 | YYYY-MM-DD | Institute | Journal     | Neurons in Large Language Models: Dead, N-gram, Positional |

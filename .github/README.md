@@ -1,10 +1,11 @@
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <p><a href=""> <img src="https://img.shields.io/github/stars/koo-ec/Awesome-LLM-Explainability?style=flat-square&logo=github" alt="GitHub stars"></a>
 <a href=""> <img src="https://img.shields.io/github/forks/koo-ec/Awesome-LLM-Explainability?style=flat-square&logo=github" alt="GitHub forks"></a>
 <a href=""> <img src="https://img.shields.io/github/issues/koo-ec/Awesome-LLM-Explainability?style=flat-square&logo=github" alt="GitHub issues"></a>
 <a href=""> <img src="https://img.shields.io/github/last-commit/koo-ec/Awesome-LLM-Explainability?style=flat-square&logo=github" alt="GitHub Last commit"></a>
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
 <a href="https://standardjs.com"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="Standard - \Python Style Guide"></a></p> 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 
 
 # Awesome-LLM-Explainability

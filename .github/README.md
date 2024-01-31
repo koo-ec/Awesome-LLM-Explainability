@@ -82,7 +82,7 @@
 | YYYY-MM-DD | Institute | Journal     | Let's Verify Step by Step |
 | YYYY-MM-DD | Institute | Journal     | Interpretability Illusions in the Generalization of Simplified Models |
 | YYYY-MM-DD | Institute | Journal     | Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling |
-| YYYY-MM-DD | Institute | Journal     | Can Large Language Models Explain Themselves? |
+| 2024 | Polytechnique Montreal | [Arxiv](https://arxiv.org/pdf/2401.07927.pdf)     | Can Large Language Models Explain Themselves? |
 | YYYY-MM-DD | Institute | Journal     | A Mechanistic Interpretability Analysis of Grokking |
 | YYYY-MM-DD | Institute | Journal     | 200 Concrete Open Problems in Mechanistic Interpretability |
 | YYYY-MM-DD | Institute | Journal     | Interpretability at Scale: Identifying Causal Mechanisms in Alpaca |

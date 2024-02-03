@@ -63,7 +63,7 @@
 |------------|-----------|-------------|-------------|
 | YYYY-MM-DD | Institute | Journal     | Linear Representations of Sentiment in Large Language Models |
 | YYYY-MM-DD | Institute | Journal     | Emergent Linear Representations in World Models of Self-Supervised Sequence Models |
-| YYYY-MM-DD | Institute | Journal     | Measuring Feature Sparsity in Language Models |
+| 2023 | MIT/Standford/Oxford | [Arxiv](https://arxiv.org/pdf/2310.07837.pdf) | Measuring Feature Sparsity in Language Models |
 | YYYY-MM-DD | Institute | Journal     | Polysemanticity and capacity in neural networks |
 | YYYY-MM-DD | Institute | Journal     | Visualizing and measuring the geometry of BERT |
 | YYYY-MM-DD | Institute | Journal     | The Geometry of Truth: Emergent Linear Structure in Large Language Model Representations of True/False Datasets |

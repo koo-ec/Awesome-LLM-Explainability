@@ -31,6 +31,12 @@
     - [Other](#other-5)
   - [Contributors](#contributors)
 
+## LLM Explainability Evaluation
+| Date | Institute        | Publication | Paper Title | Code |
+|------|------------------|-------------|-------------|------|
+| 2023 | Tsinghua University | [Arxiv](https://arxiv.org/pdf/2311.18702v1.pdf) | Scaling LLM-as-Critic for Effective and Explainable Evaluation of Large Language Model Generation | [GitHub](https://github.com/THUDM/AlignBench/blob/master/README-en.md)|
+| 2023 | UC Brekley | [Neurips23](https://arxiv.org/pdf/2306.05685v4.pdf) | Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena | [GitHub](https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge) |
+
 ## Neural Network Analysis
 | Date | Institute        | Publication | Paper Title |
 |------|------------------|-------------|-------------|

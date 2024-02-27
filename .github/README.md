@@ -116,6 +116,9 @@
 ## Related GitHub Repositories:
 * [Awesome LLM Interpretability ](https://github.com/JShollaj/awesome-llm-interpretability)
 
+## Blogs
+* Georgia Deaconu, (December 2023) [Towards LLM Explainability: Why Did My Model Produce This Output?](https://towardsdatascience.com/towards-llm-explainability-why-did-my-model-produce-this-output-8f730fc73713).
+
 <a id = "contributors"></a>
 ## Contribution and Collaboration:
 Please feel free to check out <a href = "https://github.com/koo-ec/Awesome-LLM-Explainability/blob/main/.github/CONTRIBUTING.md">CONTRIBUTING</a> and <a href = "https://github.com/koo-ec/Awesome-LLM-Explainability/blob/main/.github/CODE_OF_CONDUCT.md">CODE-OF-CONDUCT</a> to collaborate with us.

@@ -13,13 +13,11 @@
 
 ## 🚧 This repository is under construction (with daily updates) 🚧
 
-## Introduction
-<p align="justify">We've curated a collection of the latest 📈, most comprehensive 📚, and most valuable 💡 resources on large language model explainability (LLM Explainability)). But we don't stop there; included are also relevant talks, tutorials, conferences, news, and articles. Our repository is constantly updated to ensure you have the most current information at your fingertips.</p>
-
 ## Table of Contents
 - [Awesome LLM-Explainability](#️awesome-llm-xai)
-  - [Introduction](#intro)
   - [Table of Contents](#table-of-contents)
+  - [Introduction](#intro)
+  - [Webinars](#Webinars)
   - [Articles](#papers)
     - [📑Papers](#papers)
     - [📖Articles, and Presentations](#articles)
@@ -30,6 +28,15 @@
     - [📚Resource](#resource)
     - [Other](#other-5)
   - [Contributors](#contributors)
+
+<a id ="intro"></a>
+# Introduction
+<p align="justify">We've curated a collection of the latest 📈, most comprehensive 📚, and most valuable 💡 resources on large language model explainability (LLM Explainability)). But we don't stop there; included are also relevant talks, tutorials, conferences, news, and articles. Our repository is constantly updated to ensure you have the most current information at your fingertips.</p>
+
+<a id="webinars"></a>
+# Webinars
+* [LLM Explainability, Mitigating Hallucinations & Ensuring Ethical Practices](https://www.eventbrite.de/e/llm-explainability-mitigating-hallucinations-ensuring-ethical-practices-tickets-856248691887), April 2nd, 5:30 - 9pm CEST, Berlin.
+
 
 ## LLM Explainability Evaluation
 | Date | Institute        | Publication | Paper Title | Code |
@@ -99,7 +106,7 @@
 | Date       | Institute | Publication | Paper Title |
 |------------|-----------|-------------|-------------|
 | YYYY-MM-DD | Institute | Journal     | Emergent world representations: Exploring a sequence model trained on a synthetic task |
-| YYYY-MM-DD | Institute | Journal     | How does GPT-2 compute greater-than?: Interpreting mathematical abilities in a pre-trained language model |
+| YYYY-MM-DD | Institute | Journal     | How does GPT-2 compute greater than?: Interpreting mathematical abilities in a pre-trained language model |
 | YYYY-MM-DD | Institute | Journal     | Interpreting the Inner Mechanisms of Large Language Models in Mathematical Addition |
 | YYYY-MM-DD | Institute | Journal     | An Overview of Early Vision in InceptionV1 |
 
@@ -110,7 +117,7 @@
 | YYYY-MM-DD | Institute | Journal     | The Quantization Model of Neural Scaling |
 | YYYY-MM-DD | Institute | Journal     | Toy Models of Superposition |
 | YYYY-MM-DD | Institute | Journal     | Engineering monosemanticity in toy models |
-| YYYY-MM-DD | Institute | Journal     | A New Approach to Computation Reimagines Artificial Intelligenceg |
+| YYYY-MM-DD | Institute | Journal     | A New Approach to Computation Reimagines Artificial Intelligence |
  
 
 ## Related GitHub Repositories:

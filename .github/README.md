@@ -125,7 +125,7 @@
 
 ## Blogs
 * Adly Templeton, et al. (May 2024), [Mapping the Mind of a Large Language Model](https://www.anthropic.com/research/mapping-mind-language-model)
-* Georgia Deaconu, (December 2023) [Towards LLM Explainability: Why Did My Model Produce This Output?](https://towardsdatascience.com/towards-llm-explainability-why-did-my-model-produce-this-output-8f730fc73713).
+* Georgia Deaconu, (December 2023) [Towards LLM Explainability: Why Did My Model Produce This Output?](https://towardsdatascience.com/towards-llm-explainability-why-did-my-model-produce-this-output-8f730fc73713)
 
 <a id = "contributors"></a>
 ## Contribution and Collaboration:

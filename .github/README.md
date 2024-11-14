@@ -35,6 +35,10 @@
 
 <a id="webinars"></a>
 # Webinars
+
+## Recorded Videos
+* [LLM Explainability or Controllability Improvements with Tensor Networks](https://www.youtube.com/watch?v=dj9O9w16VzQ), ChemicalQDevice, March 28.
+## Events
 * [LLM Explainability, Mitigating Hallucinations & Ensuring Ethical Practices](https://www.eventbrite.de/e/llm-explainability-mitigating-hallucinations-ensuring-ethical-practices-tickets-856248691887), April 2nd, 5:30 - 9pm CEST, Berlin.
 
 

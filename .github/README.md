@@ -86,6 +86,18 @@
 | YYYY-MM-DD | Institute | Journal     | Polysemanticity and capacity in neural networks |
 | 2019 | Google/Cambridge | [NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2019/file/159c1ffe5b61b41b3c4d8f4c2150f6c4-Paper.pdf) | Visualizing and measuring the geometry of BERT |
 | YYYY-MM-DD | Institute | Journal     | The Geometry of Truth: Emergent Linear Structure in Large Language Model Representations of True/False Datasets |
+|2021 |  | Conference  | Attention is not all you need: pure attention loses rank doubly exponentially with depth|
+|2019 |  | [arXiv](https://arxiv.org/pdf/1907.07355.pdf)  | Probing neural network comprehension of natural language arguments|
+|2024 |  | [arXiv](https://arxiv.org/pdf/2406.05644.pdf)| How Alignment and Jailbreak Work: Explain LLM Safety through Intermediate Hidden States|
+|2024 |  | [arXiv](https://arxiv.org/pdf/2409.04808.pdf) | HULLMI: Human vs LLM identification with explainability|
+|2024 |  | [arXiv](https://arxiv.org/pdf/2406.12235.pdf) | Holmes-VAD: Towards Unbiased and Explainable Video Anomaly Detection via Multi-modal LLM|
+|2024 |  | [arXiv](https://arxiv.org/pdf/2408.13006v1.pdf) | Systematic Evaluation of LLM-as-a-Judge in LLM Alignment Tasks: Explainable Metrics and Diverse Prompt Templates |
+|2023 |  | [arXiv](https://arxiv.org/pdf/2311.18702v2.pdf) |  CritiqueLLM: Towards an Informative Critique Generation Model for Evaluation of Large Language Model Generation |
+
+
+
+
+
 
 ## Bias and Robustness Studies
 | Date       | Institute | Publication | Paper Title |

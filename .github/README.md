@@ -43,6 +43,8 @@
 ## Events
 * [LLM Explainability, Mitigating Hallucinations & Ensuring Ethical Practices](https://www.eventbrite.de/e/llm-explainability-mitigating-hallucinations-ensuring-ethical-practices-tickets-856248691887), April 2nd, 5:30 - 9pm CEST, Berlin.
 
+<a id="papers"></a>
+# Papers
 
 ## LLM Explainability Evaluation
 | Date | Institute        | Publication | Paper Title | Code |
@@ -137,13 +139,21 @@
 | YYYY-MM-DD | Institute | Journal     | Engineering monosemanticity in toy models |
 | YYYY-MM-DD | Institute | Journal     | A New Approach to Computation Reimagines Artificial Intelligence |
  
-
-## Related GitHub Repositories:
+<a id="githubs"></a>
+# Related GitHub Repositories:
 * [Awesome LLM Interpretability ](https://github.com/JShollaj/awesome-llm-interpretability)
+* [Explainability-for-Large-Language-Models: A Survey](https://github.com/hy-zhao23/Explainability-for-Large-Language-Models)
 
-## Blogs
+<a id="blogs"></a>
+# Blogs
 * Adly Templeton, et al. (May 2024), [Mapping the Mind of a Large Language Model](https://www.anthropic.com/research/mapping-mind-language-model)
 * Georgia Deaconu, (December 2023) [Towards LLM Explainability: Why Did My Model Produce This Output?](https://towardsdatascience.com/towards-llm-explainability-why-did-my-model-produce-this-output-8f730fc73713)
+
+<a id="tools"></a>
+# Tools
+* [Gemma Scope](https://ai.google.dev/gemma/docs/gemma_scope)
+    - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17dQFYUYnuKnP6OwQPH9v_GSYUW5aj-Rp)
+* [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html)
 
 <a id = "contributors"></a>
 ## Contribution and Collaboration:

@@ -152,7 +152,7 @@
 <a id="tools"></a>
 # Tools
 * [Gemma Scope](https://ai.google.dev/gemma/docs/gemma_scope)
-    - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17dQFYUYnuKnP6OwQPH9v_GSYUW5aj-Rp)
+    - Gemma Scope Tutorial: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17dQFYUYnuKnP6OwQPH9v_GSYUW5aj-Rp)
 * [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html)
 
 <a id = "contributors"></a>

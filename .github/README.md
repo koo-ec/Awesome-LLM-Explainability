@@ -82,20 +82,21 @@
 ## Representation Analysis
 | Date       | Institute | Publication | Paper Title |
 |------------|-----------|-------------|-------------|
-| YYYY-MM-DD | Institute | Journal     | Linear Representations of Sentiment in Large Language Models |
-| YYYY-MM-DD | Institute | Journal     | Emergent Linear Representations in World Models of Self-Supervised Sequence Models |
+| 2023 | EleutherAI Institute | [Arxiv](https://arxiv.org/pdf/2310.15154.pdf)   | Linear Representations of Sentiment in Large Language Models |
+| 2023 | Michigan/Harvard  | [Arxiv](https://arxiv.org/pdf/2309.00941.pdf)     | Emergent Linear Representations in World Models of Self-Supervised Sequence Models |
 | 2023 | MIT/Standford/Oxford | [Arxiv](https://arxiv.org/pdf/2310.07837.pdf) | Measuring Feature Sparsity in Language Models |
-| YYYY-MM-DD | Institute | Journal     | Polysemanticity and capacity in neural networks |
+| 2023 | Flatiron | [Arxiv](https://arxiv.org/pdf/2210.01892.pdf)  | Polysemanticity and capacity in neural networks |
 | 2019 | Google/Cambridge | [NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2019/file/159c1ffe5b61b41b3c4d8f4c2150f6c4-Paper.pdf) | Visualizing and measuring the geometry of BERT |
-| YYYY-MM-DD | Institute | Journal     | The Geometry of Truth: Emergent Linear Structure in Large Language Model Representations of True/False Datasets |
-|2021 |  | Conference  | Attention is not all you need: pure attention loses rank doubly exponentially with depth|
-|2019 |  | [arXiv](https://arxiv.org/pdf/1907.07355.pdf)  | Probing neural network comprehension of natural language arguments|
-|2024 |  | [arXiv](https://arxiv.org/pdf/2406.05644.pdf)| How Alignment and Jailbreak Work: Explain LLM Safety through Intermediate Hidden States|
-|2024 |  | [arXiv](https://arxiv.org/pdf/2409.04808.pdf) | HULLMI: Human vs LLM identification with explainability|
-|2024 |  | [arXiv](https://arxiv.org/pdf/2406.12235.pdf) | Holmes-VAD: Towards Unbiased and Explainable Video Anomaly Detection via Multi-modal LLM|
-|2024 |  | [arXiv](https://arxiv.org/pdf/2408.13006v1.pdf) | Systematic Evaluation of LLM-as-a-Judge in LLM Alignment Tasks: Explainable Metrics and Diverse Prompt Templates |
-|2023 |  | [arXiv](https://arxiv.org/pdf/2311.18702v2.pdf) |  CritiqueLLM: Towards an Informative Critique Generation Model for Evaluation of Large Language Model Generation |
-
+| 2024 | NEU/MIT |  [Arxiv](https://arxiv.org/pdf/2310.06824.pdf)  | The Geometry of Truth: Emergent Linear Structure in Large Language Model Representations of True/False Datasets |
+| 2021 | Google | Conference  | Attention is not all you need: pure attention loses rank doubly exponentially with depth|
+| 2019 | NCKU  | [arXiv](https://arxiv.org/pdf/1907.07355.pdf)  | Probing neural network comprehension of natural language arguments|
+| 2024 | Tsinghua University | [arXiv](https://arxiv.org/pdf/2406.05644.pdf)| How Alignment and Jailbreak Work: Explain LLM Safety through Intermediate Hidden States|
+| 2024 | IIITDM | [arXiv](https://arxiv.org/pdf/2409.04808.pdf) | HULLMI: Human vs LLM identification with explainability|
+| 2024 | HUST | [arXiv](https://arxiv.org/pdf/2406.12235.pdf) | Holmes-VAD: Towards Unbiased and Explainable Video Anomaly Detection via Multi-modal LLM|
+| 2024 | UMass Amherst | [arXiv](https://arxiv.org/pdf/2408.13006v1.pdf) | Systematic Evaluation of LLM-as-a-Judge in LLM Alignment Tasks: Explainable Metrics and Diverse Prompt Templates |
+| 2024 | Tsinghua University | [arXiv](https://arxiv.org/pdf/2311.18702v2.pdf) |  CritiqueLLM: Towards an Informative Critique Generation Model for Evaluation of Large Language Model Generation |
+| 2024 | UGA | [arXiv](https://arxiv.org/pdf/2408.05345.pdf) | Explainable AI Reloaded: Challenging the XAI Status Quo in the Era of Large Language Models |
+| 2024 | Stanford\California | [arXiv](https://arxiv.org/pdf/2403.04132v1.pdf) | Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference |
 
 
 

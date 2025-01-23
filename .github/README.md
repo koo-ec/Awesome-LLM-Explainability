@@ -47,11 +47,11 @@
 # Papers
 
 ## Survey Paper
-| Date | Institute                      | Publication                                                                 | Paper Title                                              | GitHub         |
-|------|--------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------|----------------|
-| 2024 | New Jersey Institute of Technology | [ACM TIST](https://arxiv.org/abs/2309.01029)                            | Explainability for Large Language Models: A Survey       | N/A|
-| 2024 | Imperial College               | [Arxiv](https://arxiv.org/abs/2401.12874)                                  | From Understanding to Utilization: A Survey on Explainability for Large Language Models | N/A            |
-
+| Date | Institute                               | Publication                                                                 | Paper Title                                              | GitHub         |
+|------|-----------------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------|----------------|
+| 2024 | New Jersey Institute of Technology      | [ACM TIST]((https://dl.acm.org/doi/pdf/10.1145/3639372))                              | Explainability for Large Language Models: A Survey       | N/A |
+| 2024 | Imperial College                        | [Arxiv](https://arxiv.org/abs/2401.12874)                                  | From Understanding to Utilization: A Survey on Explainability for Large Language Models | N/A            |
+| 2024 | Hong Kong University of Science and Technology | [Arxiv](https://arxiv.org/abs/2412.02104)                                  | Explainable Artificial Intelligence for Scientific Discovery | N/A         |
 
 
 ## LLM Explainability Evaluation

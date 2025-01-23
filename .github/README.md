@@ -46,7 +46,7 @@
 <a id="papers"></a>
 # Papers
 
-## Survey Paper
+## Survey Papers
 | Date | Institute                               | Publication                                                                 | Paper Title                                              | GitHub         |
 |------|-----------------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------|----------------|
 | 2024 | New Jersey Institute of Technology      | [ACM TIST](https://dl.acm.org/doi/pdf/10.1145/3639372)                      | Explainability for Large Language Models: A Survey       | N/A            |

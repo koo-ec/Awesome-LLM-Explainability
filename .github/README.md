@@ -46,6 +46,14 @@
 <a id="papers"></a>
 # Papers
 
+## Survey Paper
+| Date | Institute                      | Publication                                                                 | Paper Title                                              | GitHub         |
+|------|--------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------|----------------|
+| 2024 | New Jersey Institute of Technology | [ACM TIST](https://arxiv.org/abs/2309.01029)                            | Explainability for Large Language Models: A Survey       | N/A|
+| 2024 | Imperial College               | [Arxiv](https://arxiv.org/abs/2401.12874)                                  | From Understanding to Utilization: A Survey on Explainability for Large Language Models | N/A            |
+
+
+
 ## LLM Explainability Evaluation
 | Date | Institute        | Publication | Paper Title | Code |
 |------|------------------|-------------|-------------|------|

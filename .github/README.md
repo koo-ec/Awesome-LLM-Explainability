@@ -157,8 +157,13 @@
 
 <a id="blogs"></a>
 # Blogs
-* Adly Templeton, et al. (May 2024), [Mapping the Mind of a Large Language Model](https://www.anthropic.com/research/mapping-mind-language-model)
+
+## Medium Blogs
 * Georgia Deaconu, (December 2023) [Towards LLM Explainability: Why Did My Model Produce This Output?](https://towardsdatascience.com/towards-llm-explainability-why-did-my-model-produce-this-output-8f730fc73713)
+
+## Big Player's Blogs
+* Anthropic -- Adly Templeton, et al. (May 2024), [Mapping the Mind of a Large Language Model](https://www.anthropic.com/research/mapping-mind-language-model)
+* OpenAI -- (May 2023), [Language Models Can Explain Neurons in Language Models](https://openai.com/index/language-models-can-explain-neurons-in-language-models/), [Github](https://github.com/openai/automated-interpretability), [Neuron Viewer](https://openaipublic.blob.core.windows.net/neuron-explainer/neuron-viewer/index.html).
 
 <a id="tools"></a>
 # Tools

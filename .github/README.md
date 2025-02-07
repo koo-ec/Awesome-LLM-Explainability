@@ -172,6 +172,9 @@
     - Gemma Scope Tutorial: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17dQFYUYnuKnP6OwQPH9v_GSYUW5aj-Rp)
 * [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html)
 
+# Related Communities
+* [Interpretability, AI Safety & Explainability](https://www.alphaxiv.org/communities/interpretability-ai-safety-and-explainability)
+
 <a id = "contributors"></a>
 ## Contribution and Collaboration:
 Please feel free to check out <a href = "https://github.com/koo-ec/Awesome-LLM-Explainability/blob/main/.github/CONTRIBUTING.md">CONTRIBUTING</a> and <a href = "https://github.com/koo-ec/Awesome-LLM-Explainability/blob/main/.github/CODE_OF_CONDUCT.md">CODE-OF-CONDUCT</a> to collaborate with us.

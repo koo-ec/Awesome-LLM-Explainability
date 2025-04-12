@@ -171,6 +171,7 @@
 * [Gemma Scope](https://ai.google.dev/gemma/docs/gemma_scope)
     - Gemma Scope Tutorial: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17dQFYUYnuKnP6OwQPH9v_GSYUW5aj-Rp)
 * [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html)
+* [AWS Saliency Heatmap](https://community.aws/content/2g9iWpBegBjrzTcSWf3GmLdXHeT/llm-explainability), [Referred Paper](https://arxiv.org/pdf/2405.00208)
 
 # Related Communities
 * [Interpretability, AI Safety & Explainability](https://www.alphaxiv.org/communities/interpretability-ai-safety-and-explainability)

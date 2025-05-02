@@ -155,6 +155,7 @@
 # Related GitHub Repositories:
 * [Awesome LLM Interpretability ](https://github.com/JShollaj/awesome-llm-interpretability)
 * [Explainability-for-Large-Language-Models: A Survey](https://github.com/hy-zhao23/Explainability-for-Large-Language-Models)
+* [Awesome-LLM-Causal-Reasoning](https://github.com/chendl02/Awesome-LLM-causal-reasoning)
 
 <a id="blogs"></a>
 # Blogs

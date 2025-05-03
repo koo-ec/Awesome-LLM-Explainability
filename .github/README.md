@@ -56,12 +56,17 @@
 | 2024 | Nanyang Technological University | [Arxiv](https://arxiv.org/abs/2407.15248)                            | XAI meets LLMs: A Survey of the Relation between Explainable AI and Large Language Models | N/A         |
 | 2024 | University of Maryland, | [Arxiv](https://arxiv.org/abs/2403.09606)                            | Large Language Models and Causal Inference in Collaboration: A Comprehensive Survey | N/A         |
 
+## Perutrbation-based LLM Explainability
+| Date | Institute        | Publication | Paper Title | Code |
+|------|------------------|-------------|-------------|------|
+| 2024 | IMB Research | [Arxiv](https://arxiv.org/abs/2406.11785) | CELL your Model: Contrastive Explanations for Large Language Models | N/A |
+| 2023 | University of Hull | [Arxiv](https://arxiv.org/abs/2412.16277) | Mapping the Mind of an Instruction-based Image Editing using SMILE | [GitHub](https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge) |
 
 ## LLM Explainability Evaluation
 | Date | Institute        | Publication | Paper Title | Code |
 |------|------------------|-------------|-------------|------|
 | 2023 | Tsinghua University | [Arxiv](https://arxiv.org/pdf/2311.18702v1.pdf) | Scaling LLM-as-Critic for Effective and Explainable Evaluation of Large Language Model Generation | [GitHub](https://github.com/THUDM/AlignBench/blob/master/README-en.md)|
-| 2023 | UC Brekley | [NIPS23](https://arxiv.org/pdf/2306.05685v4.pdf) | Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena | [GitHub](https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge) |
+| 2023 | UC Brekley | [NIPS23](https://arxiv.org/pdf/2306.05685v4.pdf) | Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena | [GitHub](https://github.com/Sara068/Mapping-the-Mind-of-an-Instruction-based-Image-Editing-using-SMILE) |
 
 ## Neural Network Analysis
 | Date | Institute        | Publication | Paper Title |

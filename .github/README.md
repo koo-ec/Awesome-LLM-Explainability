@@ -60,7 +60,8 @@
 | Date | Institute        | Publication | Paper Title | Code |
 |------|------------------|-------------|-------------|------|
 | 2024 | IMB Research | [Arxiv](https://arxiv.org/abs/2406.11785) | CELL your Model: Contrastive Explanations for Large Language Models | N/A |
-| 2023 | University of Hull | [Arxiv](https://arxiv.org/abs/2412.16277) | Mapping the Mind of an Instruction-based Image Editing using SMILE | [GitHub](https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge) |
+| 2023 | University of Hull | [Arxiv](https://arxiv.org/abs/2412.16277) | Mapping the Mind of an Instruction-based Image Editing using SMILE | [GitHub](https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge) [![View on Kaggle](https://img.shields.io/badge/Kaggle-View%20Notebook-blue?logo=kaggle)](https://www.kaggle.com/code/zeinabdehghani/explain-gemini-image-editing-with-smile)
+ |
 
 ## LLM Explainability Evaluation
 | Date | Institute        | Publication | Paper Title | Code |

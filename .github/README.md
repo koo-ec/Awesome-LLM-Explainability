@@ -60,7 +60,9 @@
 | Date | Institute        | Publication | Paper Title | Code |
 |------|------------------|-------------|-------------|------|
 | 2024 | IMB Research | [Arxiv](https://arxiv.org/abs/2406.11785) | CELL your Model: Contrastive Explanations for Large Language Models | Not Official [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SO_9YVJ02nwRKnllM0w6uQiosnEROkHU?usp=sharing)  |
-| 2023 | University of Hull | [Arxiv](https://arxiv.org/abs/2412.16277) | Mapping the Mind of an Instruction-based Image Editing using SMILE | [GitHub](https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge) [![View on Kaggle](https://img.shields.io/badge/Kaggle-View%20Notebook-blue?logo=kaggle)](https://www.kaggle.com/code/zeinabdehghani/explain-gemini-image-editing-with-smile) |
+| 2025 | University of Hull | [Arxiv](https://arxiv.org/abs/2412.16277) | Mapping the Mind of an Instruction-based Image Editing using SMILE | [GitHub](https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge) [![View on Kaggle](https://img.shields.io/badge/Kaggle-View%20Notebook-blue?logo=kaggle)](https://www.kaggle.com/code/zeinabdehghani/explain-gemini-image-editing-with-smile) |
+| 2025 | Ruhr University Bochum | [Arxiv](https://arxiv.org/abs/2502.18156) | Can LLMs Explain Themselves Counterfactually? | N/A |
+| 2025 | Imperial College & J.P. Morgan AI | [Arxiv](https://arxiv.org/pdf/2411.16502) | Interpreting Language Reward Models via Contrastive Explanations | N/A |
 
 ## LLM Explainability Evaluation
 | Date | Institute        | Publication | Paper Title | Code |

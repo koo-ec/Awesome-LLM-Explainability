@@ -64,7 +64,7 @@
 | 2025 | University of Hull | [Arxiv](https://arxiv.org/pdf/2505.21657) | Explainability of Large Language Models using SMILE | [GitHub](https://github.com/Sara068/LLM-SMILE) |
 | 2025 | Ruhr University Bochum | [Arxiv](https://arxiv.org/abs/2502.18156) | Can LLMs Explain Themselves Counterfactually? | N/A |
 | 2025 | Imperial College & J.P. Morgan AI | [Arxiv](https://arxiv.org/pdf/2411.16502) | Interpreting Language Reward Models via Contrastive Explanations | N/A |
-| 2025 | Pekin University | [Arxiv](https://arxiv.org/pdf/2505.12509) | owards Budget-Friendly Model-Agnostic Explanation Generation for Large Language Models | N/A |
+| 2025 | Pekin University | [Arxiv](https://arxiv.org/pdf/2505.12509) | Towards Budget-Friendly Model-Agnostic Explanation Generation for Large Language Models | N/A |
 
 ## LLM Explainability Evaluation
 | Date | Institute        | Publication | Paper Title | Code |
